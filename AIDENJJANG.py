@@ -2,7 +2,7 @@ def main():
     print("안녕하세요! 숫자의 제곱을 계산해 드립니다.")
     
     # 사용자로부터 숫자 입력 받기
-    user_input = input("숫자를 입력하세요: ")
+    user_input = input("숫자 입력하래이~후후: ")
     
     try:
         # 입력받은 값을 정수로 변환
